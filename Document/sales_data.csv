@@ -1,0 +1,9 @@
+Region,Category,Sales,Profit,Month
+East,Furniture,2500,400,Jan
+West,Technology,4200,800,Jan
+North,Office Supplies,1800,200,Jan
+South,Furniture,2300,350,Feb
+East,Technology,5200,1200,Feb
+West,Office Supplies,2100,300,Feb
+North,Furniture,3000,500,Mar
+South,Technology,4700,900,Mar
